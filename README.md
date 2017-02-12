@@ -7,6 +7,9 @@
 
 
 
+- http://gl.ict.usc.edu/Research/DigitalEmily2/
+
+
 
 '''
 float phongExponent(float glossiness) {
